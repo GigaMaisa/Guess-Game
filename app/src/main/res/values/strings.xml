@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess Game </string>
+    <string name="hint_text">  Guess Number</string>
+    <string name="btn_text">Guess Number</string>
+    <string name="tryagain_text">Try Again</string>
+    <string name="trynumber_text">Attempts: </string>
+    <string name="score_text">Score:</string>
+    <string name="tryagain_button">Try again</string>
+</resources>
